@@ -1,9 +1,9 @@
 productid,productname,category,unitprice,stockquantity,subcategory
-101,laptop,Electronics,793.12,,
-102,hoodie,Clothing,39.1,,
-103,cable,Electronics,22.76,,
-104,hat,Clothing,43.1,,
-105,football,Sports,19.78,,
-106,controller,Electronics,88.98,,
-107,jacket,Clothing,67.02,,
-108,protector,Electronics,12.56,,
+101,laptop,Electronics,793.12,0.0,0.0
+102,hoodie,Clothing,39.1,0.0,0.0
+103,cable,Electronics,22.76,0.0,0.0
+104,hat,Clothing,43.1,0.0,0.0
+105,football,Sports,19.78,0.0,0.0
+106,controller,Electronics,88.98,0.0,0.0
+107,jacket,Clothing,67.02,0.0,0.0
+108,protector,Electronics,12.56,0.0,0.0
